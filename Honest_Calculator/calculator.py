@@ -135,4 +135,4 @@ while True:
         if answer == 'y':
             break
         elif answer == 'n':
-            exit(0)
+            exit()
